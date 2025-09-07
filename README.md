@@ -2,7 +2,7 @@
 
 A lightweight, self-hosted media streaming server perfect for Raspberry Pi. Stream your movies and TV shows to any device on your local network - your own personal Netflix!
 
-![SneakFlix Demo](https://img.shields.io/badge/Platform-Raspberry%20Pi-red) ![Node.js](https://img.shields.io/badge/Node.js-18+-green) ![License](https://img.shields.io/badge/License-MIT-blue)
+![SneakFlix Demo](https://img.shields.io/badge/Platform-Raspberry%20Pi-red) ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 
 ## ✨ Features
 
